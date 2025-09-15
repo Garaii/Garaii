@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikram Gara
 - 👀 I’m interested in CyberSecurity, Robotics and Sports Data Analytics
-- 🌱 I’m currently a Computer Science student @ McGill University 
+- 🌱 I’m currently a Computer Science & Economics student @ McGill University 
 - 📫 Reach me on my email: ikramgara5@gmail.com or ikram.gara@mail.mcgill.ca
   or on LinkedIn: https://www.linkedin.com/in/ikram-gara-28a501257/
 ## Languages
