@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Computer Science & Economics student @ McGill University 
 - 📫 Reach out to me on my email: ikramgara5@gmail.com 
   or via LinkedIn: https://www.linkedin.com/in/ikram-gara-28a501257/
-## Languages
+## Programming
 <img align= "left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align= "left" alt="HTML" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
 <img align= "left" alt="CSS" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" >
