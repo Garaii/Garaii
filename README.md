@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ikram Gara
-- 👀 I’m interested in UX, VR, AR, CyberSecurity, Robotics and Sports Data Analytics
+- 👀 I’m interested in UX, VR, AR, Cyber Security, Robotics and Sports Data Analytics
 - 🌱 I’m currently a Computer Science & Economics student @ McGill University 
 - 📫 Reach out to me on my email: ikramgara5@gmail.com 
   or via LinkedIn: https://www.linkedin.com/in/ikram-gara-28a501257/
